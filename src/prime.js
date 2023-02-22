@@ -10,7 +10,7 @@ for (let i = 2; i < Math.sqrt(x); i++){
 
 }
 
-
+// this file is no longer needed 
 
 
 
